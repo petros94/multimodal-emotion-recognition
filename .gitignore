@@ -1,0 +1,8 @@
+/venv/
+.idea/
+__pycache__/
+*.py[cod]
+/dataset/audiovisual/
+/dataset/audiovisual_0-8/
+/dataset/audiovisual_test/
+/pyAudioAnalysis/
